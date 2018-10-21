@@ -2,7 +2,7 @@ package com.singtel.models;
 
 /**
  * 
- * @author christine
+ * @author mallikarjuna
  * Simple implementation of IWalk
  *
  */

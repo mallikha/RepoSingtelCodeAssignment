@@ -2,7 +2,7 @@ package com.singtel.models;
 
 /**
  * 
- * @author Christine
+ * @author mallikarjuna
  * Simple implementation of IFly
  */
 public class SimpleFly implements IFly {

@@ -2,7 +2,7 @@ package com.singtel.models;
 
 /**
  * 
- * @author Christine
+ * @author mallikarjuna
  * ITalk implementation thats says Cluck, Cluck
  */
 public class CluckTalk implements ITalk {

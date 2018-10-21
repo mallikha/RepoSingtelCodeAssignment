@@ -2,7 +2,7 @@ package com.singtel.models;
 
 /**
  * 
- * @author Christine
+ * @author mallikarjuna
  * Implementation of ITalk that says Woof, woof
  */
 public class WoofTalk implements ITalk {

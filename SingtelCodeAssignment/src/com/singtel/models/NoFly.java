@@ -2,7 +2,7 @@ package com.singtel.models;
 
 /**
  * 
- * @author Christine
+ * @author mallikarjuna
  * Implementation of IFly that doesn't fly
  */
 public class NoFly implements IFly {

@@ -2,7 +2,7 @@ package com.singtel.models;
 
 /**
  * 
- * @author Christine
+ * @author mallikarjuna
  * Implementation of ITalk that says Cock-a-doodle-doo
  */
 public class CockadoodledooTalk implements ITalk {

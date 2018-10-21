@@ -2,7 +2,7 @@ package com.singtel.models;
 
 /**
  * 
- * @author Christine
+ * @author mallikarjuna
  * Simple implementation of ISing
  */
 public class SimpleSing implements ISing {

@@ -2,7 +2,7 @@ package com.singtel.models;
 
 /**
  * 
- * @author Christine
+ * @author mallikarjuna
  * Implementation of ISwim that doesn't swim
  */
 public class NoSwim implements ISwim {
